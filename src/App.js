@@ -1,4 +1,5 @@
 import React from "react";
+import './App.css';
 import ChartComponent from "./ChartComponent";
 import AggregationComponent from "./AggregationComponent";
 
